@@ -1,4 +1,4 @@
-export const NETWORK: Chain = {
+export const NETWORK = {
   chain: "Leopardkeen",
   chainId: 1063590932,
   rpc: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
