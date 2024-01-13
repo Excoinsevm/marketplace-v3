@@ -1,5 +1,4 @@
-export const NETWORK = {
-  chain: "Leopardkeen",
+export const NETWORK = Leopardkeen; {
   chainId: 1063590932,
   rpc: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
   nativeCurrency: {
