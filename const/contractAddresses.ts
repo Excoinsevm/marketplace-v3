@@ -1,15 +1,5 @@
-export const NETWORK = Leopardkeen; {
-  chain: Leopardkeen,
-  chainId: 1063590932,
-  rpc: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
-  nativeCurrency: {
-    name: "Ethereum",
-    symbol: "ETH",
-    decimals: 18,
-  },
-  shortName: "LK",
-  // Add any other required properties
-};
+import { Leopard } from "@thirdweb-dev/chains";
+export const NETWORK = Leopard;
 
 export const MARKETPLACE_ADDRESS = "0x4e59b44847b379578588920cA78FbF26c0B4956C";
 
