@@ -1,4 +1,4 @@
-export const NETWORK: = {
+export const NETWORK = {
   name: "Leopardkeen",
   chainId: 1063590932,
   rpcUrl: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
