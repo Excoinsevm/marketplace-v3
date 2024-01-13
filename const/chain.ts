@@ -1,14 +1,17 @@
-const chain = {
+import { Chain } from "@thirdweb-dev/chains";
+
+const CustomChain: Chain = {
   name: "Leopardkeen",
   chainId: 1063590932,
   rpc: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
   nativeCurrency: {
-    name: "Ethereum",
+    name: "ETH",
     symbol: "ETH",
     decimals: 18,
   },
-  shortName: "LK",
+  shortName: "custom",
   testnet: false,
   slug: "leopardkeen",
+};
 
-export default chain;
+export default CustomChain;
