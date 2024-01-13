@@ -1,6 +1,4 @@
-import { Chain } from "@thirdweb-dev/chains";
-
-const chains: Chain = {
+const chain = {
   name: "Leopardkeen",
   chainId: 1063590932,
   rpc: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
@@ -10,7 +8,7 @@ const chains: Chain = {
     decimals: 18,
   },
   shortName: "LK",
-  testnet: false, // Optional, include if applicable
+  testnet: false,
   slug: "leopardkeen",
 
-export default chains;
+export default chain;
