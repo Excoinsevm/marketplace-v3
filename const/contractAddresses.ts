@@ -1,11 +1,4 @@
-
-type CustomChain = {
-  name: string;
-  chainId: number;
-  rpcUrl: string;
-};
-
-export const NETWORK: CustomChain = {
+export const NETWORK: = {
   name: "Leopardkeen",
   chainId: 1063590932,
   rpcUrl: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
