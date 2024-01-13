@@ -1,8 +1,14 @@
-export const NETWORK = {
+type CustomChain = {
+  name: string;
+  chainId: number;
+  rpcUrl: string;
+};
+const NETWORK: CustomChain = {
   name: "Leopardkeen",
   chainId: 1063590932,
   rpcUrl: "https://leopardkeen-rpc.eu-north-2.gateway.fm",
 };
+export default NETWORK;
 
 export const MARKETPLACE_ADDRESS = "0x4e59b44847b379578588920cA78FbF26c0B4956C";
 
