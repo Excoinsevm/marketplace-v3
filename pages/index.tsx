@@ -38,7 +38,7 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  Trade NFT's
                 </span>
                 <br />
                 faster than ever.
@@ -49,10 +49,9 @@ const Home: NextPage = () => {
                   href="https://thirdweb.com"
                   target="_blank"
                 >
-                  thirdweb
+                  Buy
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                and <b>Sell</b>, <i>NFT's on the Leopard Chain</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
