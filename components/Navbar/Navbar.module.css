@@ -1,3 +1,4 @@
+/* Default styles for larger screens */
 .navContainer {
   width: 100%;
   display: flex;
@@ -87,9 +88,14 @@
   box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5);
 }
 
-/* Sreens less than 720px */
-@media (max-width: 500px) {
+/* Screens less than 720px */
+@media (max-width: 720px) {
   .navConnect {
     display: none !important;
   }
+}
+
+/* Screens less than 500px */
+@media (max-width: 500px) {
+  /* Add additional styles for smaller screens if needed */
 }
