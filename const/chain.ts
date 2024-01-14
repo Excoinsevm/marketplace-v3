@@ -1,4 +1,4 @@
-import { Chain } from "@thirdweb-dev/chains";
+import { CustomChain } from "../const/chain";
 
 const CustomChain: Chain = {
   chain: "Leopardkeen",
