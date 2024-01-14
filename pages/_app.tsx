@@ -2,7 +2,7 @@ import type { AppProps } from "next/app";
 import { ThirdwebProvider } from "@thirdweb-dev/react";
 import { Navbar } from "../components/Navbar/Navbar";
 import NextNProgress from "nextjs-progressbar";
-import { CustomChain } from "../const/chain";
+import CustomChain from "../const/chain";
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
