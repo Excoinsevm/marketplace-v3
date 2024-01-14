@@ -38,7 +38,7 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Trade NFT's
+                  Trade NFTs
                 </span>
                 <br />
                 faster than ever.
@@ -48,12 +48,12 @@ const Home: NextPage = () => {
                   className={styles.link}
                   href="https://thirdweb.com"
                   target="_blank"
-                >
-                  Buy
+               >
+                  keen
                 </Link>{" "}
-                and <b>Sell</b>, <i>NFT's on the Leopard Chain</i>.
+                gives you the tools you need to sell, buy, and
+                hold NFT in the leopard <b>keen</b>, <i>chain</i>.
               </p>
-
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
                   Get Started
