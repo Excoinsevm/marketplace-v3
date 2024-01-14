@@ -1,4 +1,4 @@
-import { CustomChain } from "../const/chain";
+import CustomChain from "../const/chain";
 export const NETWORK = Leopard;
 
 export const MARKETPLACE_ADDRESS = "0x4e59b44847b379578588920cA78FbF26c0B4956C";
