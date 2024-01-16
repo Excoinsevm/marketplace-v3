@@ -49,10 +49,10 @@ const Home: NextPage = () => {
                   href="https://thirdweb.com"
                   target="_blank"
                >
-                  keen
+                  Dawg
                 </Link>{" "}
-                gives you the tools you need to sell, buy, and
-                hold NFT in the leopard <b>keen</b>, <i>chain</i>.
+                gives you the tool you need to sell, buy, and
+                hold NFT in the <b>bitrock</b>, <i>chain</i>.
               </p>
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
