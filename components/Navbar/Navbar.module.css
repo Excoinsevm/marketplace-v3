@@ -93,9 +93,21 @@
   .navConnect {
     display: none !important;
   }
+
+  /* Adjust styles for smaller screens */
+  .nav {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .homeLink {
+    font-size: 20px;
+  }
+
+  /* Add more adjustments if needed */
 }
 
 /* Screens less than 500px */
 @media (max-width: 500px) {
-  /* Add additional styles for smaller screens if needed */
+  /* Add additional styles for even smaller screens if needed */
 }
