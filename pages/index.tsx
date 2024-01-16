@@ -60,7 +60,7 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://dogcoin.site/"
+                  href="https://www.dogcoin.site/home"
                   target="_blank"
                 >
                   Dawg
