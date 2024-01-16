@@ -60,10 +60,10 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://www.leopardkeen.xyz/"
+                  href="https://dogcoin.site/"
                   target="_blank"
                 >
-                  Keen
+                  Dawg
                 </Link>
               </div>
             </div>
