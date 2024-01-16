@@ -1,7 +1,7 @@
 import CustomChain from "../const/chain";
 export const NETWORK = CustomChain;
 
-export const MARKETPLACE_ADDRESS = "0x4e59b44847b379578588920cA78FbF26c0B4956C";
+export const MARKETPLACE_ADDRESS = "0x6085E269189E5480041D7519Da67bC8e418fb604";
 
 export const NFT_COLLECTION_ADDRESS =
   "0x7fe29aC3752Ae64B6e75850f9b739a0E214Ee667";
